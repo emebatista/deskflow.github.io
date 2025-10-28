@@ -1,0 +1,3 @@
+2025-06-24 15:01:45,521 ERROR: Erro inesperado: Arquivo 'install.json' não encontrado em: \\Mac\TOTVS\_Deskflow\Deskflow-app\backend\install.json. Reiniciando deskflow...
+2025-06-24 15:01:45,616 ERROR: Falha ao iniciar o deskflow: Command '['net', 'start', 'deskflow']' returned non-zero exit status 2.
+2025-06-24 15:01:50,404 INFO: Nginx reiniciado com sucesso.
